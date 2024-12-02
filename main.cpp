@@ -51,12 +51,7 @@ void simulateRocket() {
 
         // Вывод текущих значений
         output << time << "    " << h << "    " << v << "    " << mass << std::endl;
-
-        // Прерывание при достижении орбиты
-        if (v >= 7800) {
-            output << "Orbit achieved!\n";
-            break;
-        }
+        
     }
     output.close();
     }
