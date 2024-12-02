@@ -18,11 +18,11 @@
 Площадь сечения ракеты = 11.4 м^2
 **Модель**
 Характеристическая скорость:
-![image](https://github.com/user-attachments/assets/2c8e531f-bf4c-4e86-bfb9-84aaab903f50)
+![image](https://github.com/user-attachments/assets/2c8e531f-bf4c-4e86-bfb9-84aaab903f50)      
 Гравитационные потери:
-![image](https://github.com/user-attachments/assets/17eeaba9-de26-4e2a-bce7-af879f2199af)
+![image](https://github.com/user-attachments/assets/17eeaba9-de26-4e2a-bce7-af879f2199af)     
 Аэродинамические потери:
-![image](https://github.com/user-attachments/assets/a0e39582-7235-49ed-a521-3e606f04c42e)
+![image](https://github.com/user-attachments/assets/a0e39582-7235-49ed-a521-3e606f04c42e)     
 Результирующая скорость есть характеристическая скорость с учетом гравитационных и аэродинамических потерь.
 
 
